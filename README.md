@@ -1,1 +1,1 @@
-# wow.fu.io
+# whatthe.fu.io
