@@ -1,1 +1,1 @@
-# whatthe.fu.io
+# whatthe.github.io
